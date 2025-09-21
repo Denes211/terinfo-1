@@ -1,6 +1,8 @@
 2025 9 15
 
 Tárgy lényeges pontjai:                                                                                                                                                                                              
--GIS ismeretek.
+-GIS ismeretek
 
 -Git ismeretek
+-Internet alapismeretek
+Szerver a felsőben
