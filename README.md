@@ -4,5 +4,7 @@ Tárgy lényeges pontjai:
 -GIS ismeretek
 
 -Git ismeretek
+
 -Internet alapismeretek
+
 Szerver a felsőben
