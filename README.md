@@ -2,4 +2,5 @@
 
 Tárgy lényeges pontjai:                                                                                                                                                                                              
 -GIS ismeretek.
--git ismeretek.
+
+-Git ismeretek
